@@ -1,0 +1,17 @@
+# Python cache and local tooling
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Downloaded climate and ERA5 rasters (large generated/source data)
+data/**/*.nc
+data/**/*.tif
+data/**/*.tif.ovr
+data/**/*.zip
+data/**/*.part
+
+# Generated downscaled products
+outputs/
+
+# Local Windows metadata
+desktop.ini

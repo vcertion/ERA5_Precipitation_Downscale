@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-09-28T08:54:16.360930+00:00",
+  "arguments": {
+    "dataset": "worldclim",
+    "output_dir": "data\\climate_baselines",
+    "worldclim_resolution": "30s",
+    "months": "[6]",
+    "chelsa_url_template": "https://os.zhdk.cloud.switch.ch/chelsav2/GLOBAL/monthly/pr/CHELSA_pr_1981-2010_{month}.tif",
+    "retries": "3",
+    "list_only": "False"
+  },
+  "files": [
+    {
+      "url": "https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_30s_prec.zip",
+      "path": "data\\climate_baselines\\worldclim\\wc2.1_30s_prec.zip",
+      "bytes": 1025401472,
+      "sha256": "bf301aaa69f5fb9fb31eccd1e803c66e129e9e41113fdd7430c0efae3731ce97",
+      "dataset": "WorldClim v2.1",
+      "type": "monthly_precipitation_zip"
+    }
+  ]
+}
