@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-10-09T03:29:19.822905+00:00",
+  "dataset": "reanalysis-era5-land-monthly-means",
+  "notes": "total_precipitation is interpreted as mean daily accumulation by the downscaling script",
+  "arguments": {
+    "years": "[2026]",
+    "months": "['08']",
+    "output_dir": "era5_land_target",
+    "area": "None",
+    "overwrite": "False"
+  },
+  "files": [
+    {
+      "year": 2026,
+      "path": "era5_land_target\\era5_land_tp_2026.nc",
+      "status": "downloaded"
+    }
+  ]
+}

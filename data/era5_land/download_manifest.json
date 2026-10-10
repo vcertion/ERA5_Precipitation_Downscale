@@ -1,24 +1,19 @@
 {
-  "created_utc": "2026-09-29T06:18:21.256099+00:00",
+  "created_utc": "2026-10-09T03:52:43.351835+00:00",
   "dataset": "reanalysis-era5-land-monthly-means",
   "notes": "total_precipitation is interpreted as mean daily accumulation by the downscaling script",
   "arguments": {
-    "years": "[2020, 2021]",
+    "years": "[1970]",
     "months": "['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']",
     "output_dir": "data\\era5_land",
-    "area": "None",
+    "area": "[36.49, 103.75, 35.53, 104.62]",
     "overwrite": "False"
   },
   "files": [
     {
-      "year": 2020,
-      "path": "data\\era5_land\\era5_land_tp_2020.nc",
-      "status": "downloaded"
-    },
-    {
-      "year": 2021,
-      "path": "data\\era5_land\\era5_land_tp_2021.nc",
-      "status": "downloaded"
+      "year": 1970,
+      "path": "data\\era5_land\\era5_land_tp_1970.nc",
+      "status": "existing"
     }
   ]
 }

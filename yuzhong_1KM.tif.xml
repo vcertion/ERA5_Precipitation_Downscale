@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20261010</CreaDate><CreaTime>11411000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis10.8\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20261010" Time="114110">ExtractByMask era5_downscaled_08.tif 中国_县2 D:\python_project\ERA5_Downscale\yuzhong_1KM.tif</Process></lineage></DataProperties></Esri></metadata>
