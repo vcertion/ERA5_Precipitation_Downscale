@@ -9,5 +9,12 @@ data/
 # Generated downscaled products
 outputs/
 
+# Local raster exports and archives
+*.tif
+*.tfw
+*.tif.aux.xml
+*.tif.xml
+*.rar
+
 # Local Windows metadata
 desktop.ini
